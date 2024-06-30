@@ -1,0 +1,74 @@
+{
+    "Students": [
+      {
+        "StudentID": 101,
+        "Surname": "Аксенов",
+        "Name": "Кирилл",
+        "Patronymic": "Викторович"
+      },
+      {
+        "StudentID": 102,
+        "Surname": "Логинов",
+        "Name": "Антон",
+        "Patronymic": "Максимович"
+      },
+      {
+        "StudentID": 103,
+        "Surname": "Святкин",
+        "Name": "Святослав",
+        "Patronymic": "Сергеевич"
+      },
+      {
+        "StudentID": 104,
+        "Surname": "Хайбуллов",
+        "Name": "Владислав",
+        "Patronymic": "Рамильевич"
+      }
+    ],
+    "Subjects": [
+      {
+        "SubjectID": 901,
+        "SubjectName": "Программирование корпоративных систем",
+        "LectureHours": 16,
+        "PracticeHours": 32
+      },
+      {
+        "SubjectID": 902,
+        "SubjectName": "Базы данных для индустриальных задач",
+        "LectureHours": 16,
+        "PracticeHours": 32
+      }
+    ],
+    "StudyPlans": [
+      {
+        "StudentID": 101,
+        "SubjectID": 901,
+        "Grade": 4
+      },
+      {
+        "StudentID": 101,
+        "SubjectID": 902,
+        "Grade": 5
+      },
+      {
+        "StudentID": 102,
+        "SubjectID": 902,
+        "Grade": 3
+      },
+      {
+        "StudentID": 103,
+        "SubjectID": 901,
+        "Grade": 5
+      },
+      {
+        "StudentID": 103,
+        "SubjectID": 902,
+        "Grade": 5
+      },
+      {
+        "StudentID": 104,
+        "SubjectID": 902,
+        "Grade": 5
+      }
+    ]
+  }
